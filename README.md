@@ -41,11 +41,6 @@ The dataset consists of **1,000 sales transactions**, including:
 - Simulates a **real-world retail analytics** scenario.
 - Provides structured insights to optimize **sales performance and business strategies**.
 
-## 📌 Future Enhancements
-- Integrate with **Power BI** for advanced interactive dashboards.
-- Implement **forecasting techniques** to predict future sales trends.
-- Automate data updates using **Power Query**.
-
 ## 📩 Connect with Me
 💼 **[LinkedIn](https://www.linkedin.com/in/abishekdakshna-r/)**  
 📧 **abishekdakshna29@gmail.com**
