@@ -47,4 +47,5 @@ The dataset consists of **1,000 sales transactions**, including:
 - Automate data updates using **Power Query**.
 
 ## 📩 Connect with Me
-💼 **[LinkedIn](#)*https://www.linkedin.com/in/abishekdakshna-r/* | 📧 **[Email](#)*abishekdakshna29@gmail.com*
+💼 **[LinkedIn](https://www.linkedin.com/in/abishekdakshna-r/)**  
+📧 **abishekdakshna29@gmail.com**
